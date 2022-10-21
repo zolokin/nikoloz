@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikoloz.eu" resolutions="1x" timestamp="1666314512389">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikoloz.eu" resolutions="1x" timestamp="1666316106107">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="358941408" ref="index"/>
+    <file name="index.css" crc="4145711530" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -60,9 +60,9 @@
     <file name="6xp3q5.jpg" crc="3833473989" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="6xp3vd.jpg" crc="3957028664" seo="true" ref="index">
+    <file name="6xp3vd.jpg" crc="412682035" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4243249633" seo="true" mt="1666314446014" redirect="true"/>
+  <file name="index.html" crc="245410276" seo="true" mt="1666316097721" redirect="true"/>
 </manifest>
