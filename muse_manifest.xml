@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikoloz.eu" resolutions="1x" timestamp="1666314512389">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="358941408" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_20210824_103157.jpg" crc="3982804081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xoyi9.jpg" crc="239860129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp4x2.jpg" crc="3876809942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp5by.jpg" crc="43111814" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp5rc.jpg" crc="4160707054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp5yf.jpg" crc="4181944087" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp18f.jpg" crc="3866938267" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp34g.jpg" crc="4011906306" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp55u.jpg" crc="4004384660" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp66f.jpg" crc="446627938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xoz79.jpg" crc="4169406033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xozyn.jpg" crc="4213124463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp0uk.jpg" crc="4124762741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp2od.jpg" crc="3971740419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp3hb.jpg" crc="255991284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp3q5.jpg" crc="3833473989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6xp3vd.jpg" crc="3957028664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4243249633" seo="true" mt="1666314446014" redirect="true"/>
+</manifest>
